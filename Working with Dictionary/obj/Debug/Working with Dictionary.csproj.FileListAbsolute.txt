@@ -1,0 +1,15 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 Working With Dictionary\Working with Dictionary\bin\Debug\WhatIsDictionary.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 Working With Dictionary\Working with Dictionary\bin\Debug\WhatIsDictionary.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 Working With Dictionary\Working with Dictionary\bin\Debug\WhatIsDictionary.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 Working With Dictionary\Working with Dictionary\obj\Debug\Working with Dictionary.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 Working With Dictionary\Working with Dictionary\obj\Debug\Working with Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 Working With Dictionary\Working with Dictionary\obj\Debug\Working with Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 Working With Dictionary\Working with Dictionary\obj\Debug\WhatIsDictionary.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 Working With Dictionary\Working with Dictionary\obj\Debug\WhatIsDictionary.pdb
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\Working with Dictionary\bin\Debug\WhatIsDictionary.exe.config
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\Working with Dictionary\bin\Debug\WhatIsDictionary.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\Working with Dictionary\bin\Debug\WhatIsDictionary.pdb
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\Working with Dictionary\obj\Debug\Working with Dictionary.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\Working with Dictionary\obj\Debug\Working with Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\Working with Dictionary\obj\Debug\WhatIsDictionary.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\Working with Dictionary\obj\Debug\WhatIsDictionary.pdb
