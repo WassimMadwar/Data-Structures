@@ -1,0 +1,7 @@
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithSortedDictionary\bin\Debug\WorkingWithSortedDictionary.exe.config
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithSortedDictionary\bin\Debug\WorkingWithSortedDictionary.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithSortedDictionary\bin\Debug\WorkingWithSortedDictionary.pdb
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithSortedDictionary\obj\Debug\WorkingWithSortedDictionary.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithSortedDictionary\obj\Debug\WorkingWithSortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithSortedDictionary\obj\Debug\WorkingWithSortedDictionary.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithSortedDictionary\obj\Debug\WorkingWithSortedDictionary.pdb
