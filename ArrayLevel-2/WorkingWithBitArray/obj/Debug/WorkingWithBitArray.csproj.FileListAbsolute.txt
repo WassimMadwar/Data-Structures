@@ -1,0 +1,14 @@
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithBitArray\bin\Debug\WorkingWithBitArray.exe.config
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithBitArray\bin\Debug\WorkingWithBitArray.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithBitArray\bin\Debug\WorkingWithBitArray.pdb
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithBitArray\obj\Debug\WorkingWithBitArray.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithBitArray\obj\Debug\WorkingWithBitArray.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithBitArray\obj\Debug\WorkingWithBitArray.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithBitArray\obj\Debug\WorkingWithBitArray.pdb
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithBitArray\bin\Debug\WorkingWithBitArray.exe.config
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithBitArray\bin\Debug\WorkingWithBitArray.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithBitArray\bin\Debug\WorkingWithBitArray.pdb
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithBitArray\obj\Debug\WorkingWithBitArray.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithBitArray\obj\Debug\WorkingWithBitArray.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithBitArray\obj\Debug\WorkingWithBitArray.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithBitArray\obj\Debug\WorkingWithBitArray.pdb

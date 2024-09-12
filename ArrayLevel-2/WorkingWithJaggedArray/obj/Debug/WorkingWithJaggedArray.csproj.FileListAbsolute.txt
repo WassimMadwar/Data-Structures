@@ -1,0 +1,14 @@
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithJaggedArray\bin\Debug\WorkingWithJaggedArray.exe.config
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithJaggedArray\bin\Debug\WorkingWithJaggedArray.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithJaggedArray\bin\Debug\WorkingWithJaggedArray.pdb
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithJaggedArray\obj\Debug\WorkingWithJaggedArray.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithJaggedArray\obj\Debug\WorkingWithJaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithJaggedArray\obj\Debug\WorkingWithJaggedArray.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\WorkingWithJaggedArray\obj\Debug\WorkingWithJaggedArray.pdb
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithJaggedArray\bin\Debug\WorkingWithJaggedArray.exe.config
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithJaggedArray\bin\Debug\WorkingWithJaggedArray.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithJaggedArray\bin\Debug\WorkingWithJaggedArray.pdb
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithJaggedArray\obj\Debug\WorkingWithJaggedArray.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithJaggedArray\obj\Debug\WorkingWithJaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithJaggedArray\obj\Debug\WorkingWithJaggedArray.exe
+C:\Users\Wassim\work\DataStructuers\22 - Data Structures Level 2\ArrayLevel-2\WorkingWithJaggedArray\obj\Debug\WorkingWithJaggedArray.pdb
